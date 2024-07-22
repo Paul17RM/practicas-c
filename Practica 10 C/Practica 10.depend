@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1669208502 source:c:\users\paul.rodriguez\desktop\practica 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1669568300 source:c:\users\paul1\onedrive\escritorio\practica 10\practica 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1669572322 source:c:\users\paul1\onedrive\escritorio\universidad\segundo\taller de programacion\practica 10\practica 10 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1669592840 source:c:\users\paul1\desktop\universidad\segundo\taller de programacion\practica 10\practica 10 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+

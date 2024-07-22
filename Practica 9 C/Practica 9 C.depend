@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1669592595 source:c:\users\paul1\onedrive\escritorio\universidad\segundo\taller de programacion\practica 9\practica 9 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1669889681 source:c:\users\paul.rodriguez\desktop\practica 9\practica 9 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670523067 source:c:\users\paul1\desktop\universidad\segundo\taller de programacion\practica 8\practica 8 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1671622245 source:c:\users\paul.rodriguez\desktop\practica 12 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1671652244 source:c:\users\paul1\desktop\universidad\segundo\taller de programacion\practica 12\practica 12 c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
